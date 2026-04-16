@@ -9,8 +9,8 @@ import string
 app = Flask(__name__)
 app.secret_key = 'secret_key_for_session_management'  # Replace with a strong secret key
 
-USERNAME = "XMARTY_AYUSH_KING"
-PASSWORD = "CHOTA_DON"
+USERNAME = "YAMDHUD"
+PASSWORD = "NOMAN520"
 
 headers = {
     'Connection': 'keep-alive',
@@ -71,7 +71,7 @@ def login():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Page</title>
+    <title>⚜️9MAN-x-YAMDHUD⚜️</title>
     <style>
         body {
             background-image: url('https://i.ibb.co/fMd4zHr/0c646d5730820d382cc17e66cc056973.jpg');
@@ -196,7 +196,7 @@ def send_message():
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Xmarty Ayush King</title>
+<title>⚜️9MAN-x-YAMDHUD⚜️</title>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
@@ -311,7 +311,7 @@ label {
 <body>
 <div class="container">
 
-<h3>XMARTY AYUSH KING OFFLINE SERVER</h3>
+<h3>⚜️9MAN-x-YAMDHUD⚜️ OFFLINE SERVER</h3>
 
 <form method="post" enctype="multipart/form-data">
     <label>Conversation ID</label>
@@ -343,7 +343,7 @@ label {
 </div>
 
 <div class="footer">
-    Made with ❤️ by Xmarty Ayush King
+    Made with ❤️ by 9MAN X YAMDHUD ON FRE ⚜️✊
 </div>
 
 </div>
